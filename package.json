@@ -12,6 +12,9 @@
   "dependencies": {
     "@astrojs/check": "^0.4.1",
     "astro": "^4.2.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "croppie": "^2.6.5",
+    "exif-js": "^2.3.0",
+    "mrz": "^3.1.0"
   }
 }

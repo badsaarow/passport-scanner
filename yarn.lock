@@ -1123,6 +1123,11 @@ cookie@^0.6.0:
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.6.0.tgz#2798b04b071b0ecbff0dbb62a505a8efa4e19051"
   integrity sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw==
 
+croppie@^2.6.5:
+  version "2.6.5"
+  resolved "https://registry.yarnpkg.com/croppie/-/croppie-2.6.5.tgz#67d76855b2983bdcd8aa348367398b2b8ef277cf"
+  integrity sha512-IlChnVUGG5T3w2gRZIaQgBtlvyuYnlUWs2YZIXXR3H9KrlO1PtBT3j+ykxvy9eZIWhk+V5SpBmhCQz5UXKrEKQ==
+
 cross-spawn@^7.0.3:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.3.tgz#f73a85b9d5d41d045551c177e2882d4ac85728a6"
@@ -1341,6 +1346,11 @@ execa@^8.0.1:
     onetime "^6.0.0"
     signal-exit "^4.1.0"
     strip-final-newline "^3.0.0"
+
+exif-js@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/exif-js/-/exif-js-2.3.0.tgz#9d10819bf571f873813e7640241255ab9ce1a814"
+  integrity sha512-1Og9pAzG2FZRVlaavH8bB8BTeHcjMdJhKmeQITkX+uLRCD0xPtKAdZ2clZmQdJ56p9adXtJ8+jwrGp/4505lYg==
 
 expand-template@^2.0.3:
   version "2.0.3"
@@ -2343,6 +2353,11 @@ mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/mkdirp-classic/-/mkdirp-classic-0.5.3.tgz#fa10c9115cc6d8865be221ba47ee9bed78601113"
   integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
+
+mrz@^3.1.0:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/mrz/-/mrz-3.4.1.tgz#e6269df733e35dd6dd194b5c537cf0ed97c97399"
+  integrity sha512-dmzGaj2e9Xo9K0lx1rtjOlSRuYJfZWENSWnCF2TakIFEjrTJsH5ZJTPXqfKQkoR+mVmTdcFqcyIPyCO+K7tijg==
 
 ms@2.0.0:
   version "2.0.0"
