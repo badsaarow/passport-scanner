@@ -20,15 +20,9 @@ const count = fs.readFileSync('/tmp/count.txt', 'utf-8')
     <title>Astro</title>
   </head>
 	<body>
-		<h1>
-			Count: <span id='count'>{count}</span>
-		</h1>
-	
-		<button hx-post='/api/increment' hx-target='#count'>
-			Increment
-		</button>
-		<button hx-post='/api/decrement' hx-target='#count'>
-			Decrement
-		</button>
+    <h1>Count: <span id='count'>{count}</span></h1>
+
+    <button hx-post='/api/increment' hx-swap='none'>Increment</button>
+    <button hx-post='/api/decrement' hx-swap='none'>Decrement</button>
 	</body>
 </html>
